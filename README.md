@@ -1,4 +1,4 @@
-# RAG prototype - Q1 code
+# RAG prototype 
 
 Small version of the pipeline from the report: retrieve -> rerank -> generate -> verify.
 Not production code, just enough to test the design decisions from the report
