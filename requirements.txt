@@ -1,0 +1,8 @@
+scikit-learn
+
+# optional - only needed for the real deep learning models (embeddings +
+# cross-encoder reranker). without these installed, or without internet
+# access to download the models, the code falls back to TF-IDF + word
+# overlap automatically - it still runs either way.
+sentence-transformers
+anthropic
