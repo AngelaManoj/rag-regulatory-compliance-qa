@@ -1,7 +1,5 @@
 # RAG prototype - Q1 code
 
-Angela Manoj - 25138316
-
 Small version of the pipeline from the report: retrieve -> rerank -> generate -> verify.
 Not production code, just enough to test the design decisions from the report
 (chunking, hybrid retrieval, abstention, access control) actually work.
